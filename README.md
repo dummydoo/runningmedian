@@ -9,4 +9,4 @@ The paradox is that it is almost impossible to find the median indicator in trad
 
 I therefore designed this running median operator which is incremental and therefore very fast. It is under the GNU public license.
 
-![Screenshot](https://github.com/scoulondre/runningmedian/raw/master/img/Running_Median_Indicator.png)
+![Screenshot](https://raw.githubusercontent.com/scoulondre/runningmedian/master/Running_Median_Indicator.png)
